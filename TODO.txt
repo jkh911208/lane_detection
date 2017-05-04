@@ -1,0 +1,5 @@
+TODO List
+
+tain and implement Haar Cascade to find the vihecle 
+calculate the offset of the car from the center
+-> 0 is center minus value is left plus value is right
