@@ -1,3 +1,10 @@
+# References:
+# https://github.com/MehdiSv/FindLanes
+# https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+#
+# Gyuhyong Jeon (James)
+#
+
 import cv2
 import numpy as np
 from numpy.polynomial import Polynomial as P
